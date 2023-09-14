@@ -1,4 +1,4 @@
-# Livro VISÃO COMPUTACIONAL EM PYTHON - FERNANDO FELTRIN https://www.amazon.com.br/dp/B08NTW8TNV
+
 
 import cv2
 import matplotlib.pyplot as plt
