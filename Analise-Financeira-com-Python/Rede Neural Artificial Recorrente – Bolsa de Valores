@@ -77,5 +77,3 @@ plt.ylabel('Valor')
 plt.legend()
 plt.show()
 
-# Livro Arrays com Python + Numpy - https://www.amazon.com.br/dp/B08BTN6V7Y
-# Livro Visão Computacional em Python - https://www.amazon.com.br/dp/B08NTW8TNV
