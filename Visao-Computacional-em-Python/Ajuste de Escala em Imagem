@@ -9,7 +9,7 @@ imagem_escalonada = cv2.resize(imagem,
                                fx = 0.4,
                                fy = 0.4,
                                interpolation = cv2.INTER_CUBIC)
-# fx e fy definem o percentual de escalonamento
+# Fx e Fy definem o percentual de escalonamento
 
 cv2_imshow(imagem4)
 cv2_imshow(imagem_escalonada)
